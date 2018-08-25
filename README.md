@@ -1,3 +1,5 @@
+#### Lane Mark Recognition 
+
 ### Steps for C++ code :
 
 Note: For Mac os install Xquartz first and for Ubuntu install libx11-dev 
@@ -18,5 +20,5 @@ make
 Run the app:
 
 ```bash
-./main *path of a video*
+./main (path of a video)
 ```
