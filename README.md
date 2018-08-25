@@ -2,7 +2,8 @@
 
 ### Steps for C++ code :
 
-Note: For Mac os install Xquartz first and for Ubuntu install libx11-dev 
+Note: For Mac os install Xquartz first and for Ubuntu install libx11-dev.
+
 Note: Check the version and path of OpenCV. OpenCV 2 should still work.
 
 ```bash
